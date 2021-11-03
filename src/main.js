@@ -1,1 +1,1 @@
-console.log("main script loaded!")
+document.getElementById("test1").innerText = "main.js loaded!";
